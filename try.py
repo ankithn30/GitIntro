@@ -1,1 +1,1 @@
-print("Welcome to Ankith's diddy party")
+print("Welcome to AI Club!")
